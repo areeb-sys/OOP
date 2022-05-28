@@ -1,0 +1,9 @@
+Car,LEA-09-1,2000,Red,17
+MoterCycle,LAX-20-1234,70,Blue,14
+Truck,LME-10-1234,6000,Black,1234
+Car,EEA-09-1,2000,Red,17
+MterCycle,LAX-20-1234,70,Blue,14
+Truck,LME-10-1234,9,Black,1234
+Car,LEB-09-1,2000,Red,17
+MoterCycle,LXX-20-1234,750,Red,20
+Truck,LMT-10-5678,9000,Black,18
